@@ -1,7 +1,1 @@
-it will print the following information:
-
-The kernel name
-The kernel release
-The kernel version
-The machine hardware name
-The operating system name
+it will print Linux
